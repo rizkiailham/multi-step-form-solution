@@ -149,8 +149,8 @@ On the results page, we expect to see the values collected by the form. Each ele
 ## When You Are Done
 
 1. Push the completed project to **your own GitHub repository**.
-1.1 Please don't push your code into the provided repository.
-2. Create a new Pull Request from the branch where you've committed your solution to the default branch of this repository. **Please do not merge the created Pull Request**.
+2. Create a new Pull Request from the branch where you've committed to track your history. ( Please don't push your code into the provided repository. )
+3. Contact our Recruitment staff and provide them you GitHub repository link.
 
 ---
 
