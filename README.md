@@ -150,7 +150,7 @@ On the results page, we expect to see the values collected by the form. Each ele
 
 1. Push the completed project to **your own GitHub repository**.
 2. Create a new Pull Request from the branch where you've committed to track your history. ( Please don't push your code into the provided repository. )
-3. Contact our Recruitment staff and provide them you GitHub repository link.
+3. Contact our Recruitment staff and provide them your GitHub repository link.
 
 ---
 
