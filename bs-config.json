@@ -1,0 +1,12 @@
+{
+  "server": {
+    "baseDir": "./dist",
+    "routes": {
+      "/step1": "/index.html",
+      "/step2": "/index.html",
+      "/step3": "/index.html",
+      "/results": "/index.html",
+      "/": "/index.html"
+    }
+  }
+}

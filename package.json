@@ -1,12 +1,15 @@
 {
-    "name": "multi-step-form",
-    "version": "1.0.0",
-    "scripts": {
-      "build": "echo build your frontend app here",
-      "start": "echo start your frontend app here",
-      "test": "cypress run"
-    },
-    "devDependencies": {
-      "cypress": "^12.17.1"
-    }
+  "name": "multi-step-form",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc && cp src/index.html dist/ && cp src/styles.css dist/",
+    "start": "lite-server",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "connect-history-api-fallback": "^2.0.0",
+    "cypress": "^12.17.1",
+    "lite-server": "^2.6.1",
+    "typescript": "^5.7.2"
   }
+}
